@@ -91,7 +91,6 @@ namespace Alpha
 
         }
         //------------------------------------------------------------------------------
-        
         private void ActiveButton(object senderBtn, Color color)
         {
             if (senderBtn != null)
